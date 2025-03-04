@@ -17,33 +17,33 @@ The use of statistics is ubiquitous in astronomy and astrophysics. Modern advanc
 
 ## Lectures
 
-1. [Introduction I](lectures/L01_introduction.ipynb). Data mining and machine learning. My research interests. Python setup. Version control with git. *
-2. [Probability and Statistics I](lectures/L02_probability.ipynb). Probability. Bayes' theorem. Random variables. *
-3. [Probability and Statistics II](lectures/L03_probability.ipynb). Monte Carlo integration. Descriptive statistics. Common distributions. *
-4. [Probability and Statistics III](lectures/L04_probability.ipynb). Central limit theorem. Multivariate pdfs. Correlation coefficients. Sampling from arbitrary pdfs. *
-5. [Frequentist Statistical Inference: I](lectures/L05_frequentist.ipynb). Frequentist vs Bayesian inference. Maximum likelihood estimation. Omoscedastic Gaussian data, Heteroscedastic Gaussian data, non Gaussian data. *
-6. [Frequentist Statistical Inference: II](lectures/L06_frequentist.ipynb). Maximum likelihood fit. Role of outliers. Goodness of fit. Model comparison. Gaussian mixtures. Boostrap and jackknife. *
-7. [Frequentist Statistical Inference: III](lectures/L07_frequentist.ipynb). Hypotesis testing. Comparing distributions, KS test. Histograms. Kernel density estimators. *
-8. [Bayesian Statistical Inference: I](lectures/L08_bayesian.ipynb). The Bayesian approach to statistics. Prior distributions. Credible regions. Parameter estimation examples (coin flip). Marginalization.
-9. [Bayesian Statistical Inference: II](lectures/L09_bayesian.ipynb) Parameter estimation examples (Gaussian data, background). Model comparison: odds ratio. Approximate model comparison.
-10. [Bayesian Statistical Inference: III](lectures/L10_bayesian.ipynb). Monte Carlo methods. Markov chains. Burn-in. Metropolis-Hastings algorithm.  *
-11. [Bayesian Statistical Inference: IV](lectures/L11_bayesian.ipynb). MCMC diagnostics. Traceplots. Autocorrelation lenght. Samplers in practice: emcee and PyMC3. Gibbs sampling. Conjugate priors.  *
-12. [Bayesian Statistical Inference: V](lectures/L12_bayesian.ipynb). Evidence evaluation. Model selection. Savage-Dickey density ratio. Nested sampling. Samplers in practice: dynesty. * 
-13. [Introduction II](lectures/L13_introduction.ipynb). Data mining and machine learning. Supervised and unsupervised learning. Overview of scikit-learn. Examples. *
-14. [Clustering](lectures/L14_clustering.ipynb). K-fold cross validation. Unsupervised clustering. K-Means Clustering. Mean-shift Clustering. Correlation functions. *
-15. [Dimensional Reduction I](lectures/L15_dimensionality.ipynb). Curse of dimensionality. Principal component analysis. Missing data. Non-negative matrix factorization. Independent component analysis. *
-16. [Dimensional Reduction II - Density estimation](lectures/L16_dimensionality.ipynb). Non-linear dimensional reduction. Locally linear embedding. Isometric mapping. t-SNE. Recap of density estimation. KDE. Nearest-Neighbor. Gaussian Mixtures. *Pills of modern research*
-17. [Regression I](lectures/L17_regression.ipynb). What is regression? Linear regression. Polynomial regression. Basis function regression. Kernel regression. Over/under fitting. Cross validation. Learning curves. *
-18. [Regression II](lectures/L18_regression.ipynb). Regularization. Ridge. LASSO. Non-linear regression. Gaussian process regression. Total least squares. *
-19. [Classification I](lectures/L19_classification.ipynb). Generative vs discriminative classification. Receiver Operating Characteristic (ROC) curve. Naive Bayes. Gaussian naive Bayes. Linear and quadratic discriminant analysis. GMM Bayes classification. K-nearest neighbor classifier. *
-20. [Classification II](lectures/L20_classification.ipynb). Logistic regression. Support vector machines. Decision trees. Bagging. Random forests. Boosting. *
-21. [Deep learning I](lectures/L21_deeplearning.ipynb). Loss functions. Gradient descent, learning rate. Adaptive boosting. Neural networks. Backpropagation. Layers, neurons, activation functions, regularization schemes. *
-22. [Deep learning II](lectures/L22_deeplearning.ipynb). TensorFlow, keras, and pytorch. Convolutional neural networks. Autoencoders. Generative adversarial networks. *
+1. **[Introduction I](lectures/L01_introduction.ipynb)**. Data mining and machine learning. My research interests. Python setup. Version control with git. *
+2. **[Probability and Statistics I](lectures/L02_probability.ipynb)**. Probability. Bayes' theorem. Random variables. *
+3. **[Probability and Statistics II](lectures/L03_probability.ipynb)**. Monte Carlo integration. Descriptive statistics. Common distributions. *
+4. **[Probability and Statistics III](lectures/L04_probability.ipynb)**. Central limit theorem. Multivariate pdfs. Correlation coefficients. Sampling from arbitrary pdfs. *
+5. **[Frequentist Statistical Inference: I](lectures/L05_frequentist.ipynb)**. Frequentist vs Bayesian inference. Maximum likelihood estimation. Omoscedastic Gaussian data, Heteroscedastic Gaussian data, non Gaussian data. *
+6. **[Frequentist Statistical Inference: II](lectures/L06_frequentist.ipynb)**. Maximum likelihood fit. Role of outliers. Goodness of fit. Model comparison. Gaussian mixtures. Boostrap and jackknife. *
+7. **[Frequentist Statistical Inference: III](lectures/L07_frequentist.ipynb)**. Hypothesis testing. Comparing distributions, KS test. Histograms. Kernel density estimators. *
+8. **[Bayesian Statistical Inference: I](lectures/L08_bayesian.ipynb)**. The Bayesian approach to statistics. Prior distributions. Credible regions. Parameter estimation examples (coin flip). Marginalization.
+9. **[Bayesian Statistical Inference: II](lectures/L09_bayesian.ipynb)**. Parameter estimation examples (Gaussian data, background). Model comparison: odds ratio. Approximate model comparison.
+10. **[Bayesian Statistical Inference: III](lectures/L10_bayesian.ipynb)**. Monte Carlo methods. Markov chains. Burn-in. Metropolis-Hastings algorithm.  *
+11. **[Bayesian Statistical Inference: IV](lectures/L11_bayesian.ipynb)**. MCMC diagnostics. Traceplots. Autocorrelation length. Samplers in practice: emcee and PyMC3. Gibbs sampling. Conjugate priors.  *
+12. **[Bayesian Statistical Inference: V](lectures/L12_bayesian.ipynb)**. Evidence evaluation. Model selection. Savage-Dickey density ratio. Nested sampling. Samplers in practice: dynesty. * 
+13. **[Introduction II](lectures/L13_introduction.ipynb)**. Data mining and machine learning. Supervised and unsupervised learning. Overview of scikit-learn. Examples. *
+14. **[Clustering](lectures/L14_clustering.ipynb)**. K-fold cross-validation. Unsupervised clustering. K-Means Clustering. Mean-shift Clustering. Correlation functions. *
+15. **[Dimensional Reduction I](lectures/L15_dimensionality.ipynb)**. Curse of dimensionality. Principal component analysis. Missing data. Non-negative matrix factorization. Independent component analysis. *
+16. **[Dimensional Reduction II - Density estimation](lectures/L16_dimensionality.ipynb)**. Non-linear dimensional reduction. Locally linear embedding. Isometric mapping. t-SNE. Recap of density estimation. KDE. Nearest-Neighbor. Gaussian Mixtures. *Pills of modern research*
+17. **[Regression I](lectures/L17_regression.ipynb)**. What is regression? Linear regression. Polynomial regression. Basis function regression. Kernel regression. Over/underfitting. Cross-validation. Learning curves. *
+18. **[Regression II](lectures/L18_regression.ipynb)**. Regularization. Ridge. LASSO. Non-linear regression. Gaussian process regression. Total least squares. *
+19. **[Classification I](lectures/L19_classification.ipynb)**. Generative vs discriminative classification. Receiver Operating Characteristic (ROC) curve. Naive Bayes. Gaussian naive Bayes. Linear and quadratic discriminant analysis. GMM Bayes classification. K-nearest neighbor classifier. *
+20. **[Classification II](lectures/L20_classification.ipynb)**. Logistic regression. Support vector machines. Decision trees. Bagging. Random forests. Boosting. *
+21. **[Deep learning I](lectures/L21_deeplearning.ipynb)**. Loss functions. Gradient descent, learning rate. Adaptive boosting. Neural networks. Backpropagation. Layers, neurons, activation functions, regularization schemes. *
+22. **[Deep learning II](lectures/L22_deeplearning.ipynb)**. TensorFlow, keras, and pytorch. Convolutional neural networks. Autoencoders. Generative adversarial networks. *
 
 ##### Additional lectures not covered in class
 
-23. [Time series analysis I](lectures/extra/L23_timeseries.ipynb). Detect a variability. Fourier analysis. Temporally localized signals. Periodic signals.  Lomb-Scargle periodogram. Multiband strategies. *
-24. [Time series analysis II](lectures/extra/L24_timeseries.ipynb). Stochastic processes. Autoregressive models. Moving averages. Power-spectral density. Autocorrelation. White/red/pink noise. Unevenly sampled data.
+23. **[Time series analysis I](lectures/extra/L23_timeseries.ipynb)**. Detect a variability. Fourier analysis. Temporally localized signals. Periodic signals.  Lomb-Scargle periodogram. Multiband strategies. *
+24. **[Time series analysis II](lectures/extra/L24_timeseries.ipynb)**. Stochastic processes. Autoregressive models. Moving averages. Power-spectral density. Autocorrelation. White/red/pink noise. Unevenly sampled data.
 
 \* = Time to get your hands dirty!
 
