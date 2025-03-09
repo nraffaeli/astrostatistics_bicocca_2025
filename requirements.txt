@@ -9,7 +9,6 @@ corner
 tqdm
 seaborn
 emcee
-pymc3
 dynesty
 bokeh
 h5py
