@@ -15,5 +15,8 @@ lectures/my_keras_model.h5
 lectures/trained_2e7_design_precessing_higherordermodes_3detectors.h5
 lectures/correlation_functions.pkl
 
+exercise/logstrained22/
+
 # Large local dataset
 exercise/sample_2e7_design_precessing_higherordermodes_3detectors.h5
+exercise/trained22.h5
