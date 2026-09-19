@@ -44,7 +44,7 @@ Each of these three parts usually lasts about 15 minutes, for a total of 45-ish 
 10. Handwritten digits (**optional**) [[see L13]](lectures/L13_introduction.ipynb)
 11. Gamma ray bursts **(examinable)**  [[see L14]](lectures/L14_clustering.ipynb)
 12. HR diagram, part 1 **(examinable)** and part 2 **(optional)** [[see L15]](lectures/L15_dimensionality.ipynb)
-13. Supernova distances and redshifts, *part 1* **(examinable)** [[see L17]](lectures/L17_regression.ipynb)
+13. Supernova distances and redshifts, part 1 **(examinable)** [[see L17]](lectures/L17_regression.ipynb)
 14. Supernova distances and redshifts, part 2 **(examinable)** and part 3 **(examinable)** [[see L18]](lectures/L18_regression.ipynb)
 15. SDSS galaxies vs quasars, part 1 **(examinable)** [[see L19]](lectures/L19_classification.ipynb); 
 16. Gravitational-wave detectability, part 1 **(examinable)** [[see L20]](lectures/L20_classification.ipynb)
