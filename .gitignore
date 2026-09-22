@@ -4,6 +4,7 @@ lectures/fig_correlations_dump.pkl
 hidden
 Summary_table.txt
 stars.csv
+galaxyquasars.csv
 lectures/GMMbayes_rrlyrae.pkl
 lectures/SVM_rrlyrae.pkl
 lectures/photoz_boosting.pkl
@@ -14,7 +15,6 @@ lectures/logstrained/
 lectures/my_keras_model.h5
 lectures/trained_2e7_design_precessing_higherordermodes_3detectors.h5
 lectures/correlation_functions.pkl
-
 working/logstrained22/
 
 # Large local dataset
